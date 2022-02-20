@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+ul{
+	padding:0;
+	margin:0 0 20px 0;
+	list-style:none;
+}
+
+h1, h2{
+	padding:0;
+	margin:0 0 20px 0;
+	font-weight:normal;
+}
+
+p{
+	padding:0;
+	margin:0 0 20px 0;
+}
+
+a:link, a:visited{
+	text-decoration:underline;
+	color:#000;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+ul li{
+	padding:5px 0;
+}
+
+ul li input[type="text"],ul li input[type="password"]{
+	width:200px;
+}
+
+textarea{
+	width:400px;
+	height:150px;
+}
+
+/**********Header start**********/
+
+h1{
+	font-size:1.8e.m;
+}
+
+h2{
+	font-size:1.4e.m;
+}
+
+.logo{
+	font:2em Arial;
+	margin:0 0 10px 0;
+	padding:0;
+	width:200px;
+	color:#fff;
+}
+
+/**********Header end**********/
+
+/**********Container start**********/
+
+body{
+	background:lightslategray;
+	font-family:Arial;
+	font-size:0.8em;
+}
+
+#container, footer{
+	background:#fff;
+	width:920px;
+	margin:0 auto;
+	padding:20px;
+}
+
+header{
+	width:940px;
+	padding:10px;
+	margin:0 auto 10px auto;
+}
+
+#container{
+	min-height:500px;
+	border-radius:5px 5px 0 0;
+}
+
+footer{
+	border-radius:0 0 5px 5px;
+}
+
+.widget .inner{
+	margin:0 10px;
+}
+
+/**********Container end**********/
+
+/**********Navigation start**********/
+
+nav{
+	float:left;
+}
+
+nav ul{
+	margin:0;
+}
+
+nav ul li{
+	display:inline;
+	margin-right:10px;
+}
+
+nav ul li a{
+	text-decoration:none;
+}
+
+nav ul li.current{
+	font-weight:bold;
+}
+
+nav ul li a.last{
+	border-right:0;
+}
+
+/**********Navigation end**********/
+
+/**********Aside start**********/
+
+aside{
+	width:260px;
+	float:right;
+	border-left:1px dashed #aaa;
+	padding-left:15px;	
+}
+
+.profile img{
+	width:200px;
+	height: 200px;
+}
+
+/**********Aside end**********/
+
+/**********Logo start**********/
+
+#login li.link{
+	margin-top:5px;
+}
+
+/**********Logo end**********/
+
+/**********footer start**********/
+
+#footer{
+	border-top:1px dashed #ddd;
+	color:#999;
+}
+
+/**********footer end**********/
+
+/**********misc end**********/
+
+.clear{
+	clear:both;
+}
+
+/**********misc end**********/

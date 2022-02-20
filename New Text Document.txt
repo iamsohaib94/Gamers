@@ -1,0 +1,71 @@
+AP : Sohaib Hassan
+     tigerlion
+
+login : sohaib
+        tiger123
+
+
+
+--old--
+https://s14.hosterpk.com:2083/
+
+gamerorigin
+sohaibhassan1q2w3e4r5tA
+
+--------------------------
+
+https://www.gamersorigin.site:2083/
+
+https://hostariz.com:2083/
+gamersorigin
+Paki$tan47
+update password : sohaibhassan1q2w3e4r5tA
+
+database : gamersorigin_lr
+password : u4Cp?PaikRKD
+
+email account
+no-reply@gamersorigin.site
+wg8jLp2McR}q
+-------------------------------------------
+<?php
+$servername = "localhost";
+$username = "gamersorigin_lr";
+$password = "u4Cp?PaikRKD";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password);
+
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+//echo "Connected successfully";
+?>
+--------------------------------
+
+<?php
+$connect_error = 'Sorry, we\'re experiencing connection problems.';
+mysql_connect('localhost', 'gamersorigin_lrg', 'u4Cp?PaikRKD') or die($connect_error);
+mysql_select_db('gamersorigin_lrg') or die($connect_error);
+
+?>
+
+--------------------------------
+
+bank alhabib account
+
+muhammadsohaibhassan
+wg8jfp2wg
+
+Your support ID is: 14479723711964862328.
+
+---------------------------
+
+ns1.starizpk.com
+ns2.starizpk.com
+
+----------------------------
+
+summaiyahassan1301@gmail.com
+sohaibtigerA!12
